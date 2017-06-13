@@ -1,6 +1,6 @@
 {
   "name": "combyna-wcms",
-  "version": "0.0.0",
+  "version": "1.0.0-build1",
   "private": true,
   "dependencies": {
     "keystone": "4.0.0-beta.5",
